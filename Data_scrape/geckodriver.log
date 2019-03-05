@@ -1,0 +1,226 @@
+1551741085441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.eUgV9W89lDXi"
+1551741086016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551741086016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551741087482	Marionette	INFO	Listening on port 58230
+1551741087585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551741103757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.gD5YBitJoDPz"
+1551741104234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551741104234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551741105543	Marionette	INFO	Listening on port 58285
+1551741105597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=572155175.1551741110, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=572155175.1551741110, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1551743180144	Marionette	INFO	Stopped listening on port 58285
+1551743182014	Marionette	INFO	Stopped listening on port 58230
+1551743215198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.YiVHQwq9wvlL"
+1551743215691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551743215692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551743217059	Marionette	INFO	Listening on port 58685
+1551743217150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=978576406.1551743222, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=978576406.1551743222, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=978576406.1551743222, line 96: unreachable code after return statement
+1551743508341	Marionette	INFO	Stopped listening on port 58685
+1551743530353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.SST69IIpzjFI"
+1551743530785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551743530786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551743532039	Marionette	INFO	Listening on port 58936
+1551743532092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=18983889.1551743539, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=18983889.1551743539, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=18983889.1551743539, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=18983889.1551743539, line 96: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Can't find symbol 'GetGraphicsResetStatus'.
+1551744291652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.YpWIrwh7aNWN"
+1551744292190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551744292190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551744293559	Marionette	INFO	Listening on port 59462
+1551744293618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1965954129.1551744298, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1965954129.1551744298, line 96: unreachable code after return statement
+Can't find symbol 'GetGraphicsResetStatus'.
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:814:5\nhandler@resource://devtools/shared/protocol.js:1197:21\nonPacket@resource://devtools/server/main.js:1324:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): node is null"
+1551744769280	Marionette	INFO	Stopped listening on port 59462
+1551744775978	Marionette	INFO	Stopped listening on port 58936
+1551744863795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.3uIIKbLbmBFo"
+1551744864267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551744864267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551744865652	Marionette	INFO	Listening on port 59752
+1551744865743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1947813452.1551744869, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1947813452.1551744869, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1947813452.1551744869, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1947813452.1551744869, line 96: unreachable code after return statement
+1551744961994	Marionette	INFO	Stopped listening on port 59752
+1551745314600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.JbRhF7zOU5ip"
+1551745315115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551745315115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551745316477	Marionette	INFO	Listening on port 60132
+1551745316549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1100334688.1551745327, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551745508002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.eDriehssG43Z"
+1551745508467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551745508467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551745509823	Marionette	INFO	Listening on port 60329
+1551745509852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1340796128.1551745525, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+1551745896305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.EqfWBcl7THI7"
+1551745896881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551745896881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551745898284	Marionette	INFO	Listening on port 60613
+1551745898393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:814:5\nhandler@resource://devtools/shared/protocol.js:1197:21\nonPacket@resource://devtools/server/main.js:1324:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): node is null"
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1590288549.1551745901, line 96: unreachable code after return statement
+1551747433037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.rA4Xt4naZpjn"
+1551747433794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551747433794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551747435355	Marionette	INFO	Listening on port 62508
+1551747435401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1456687491.1551747446, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1456687491.1551747446, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1456687491.1551747446, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=1456687491.1551747446, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.zillowstatic.com/l/?wants=z-analytics,zillow-link-tracking,search-ui-content,z-map-list-side-by-side,zillow-search-main,zsg-menus&deploy=admin-account-tools.c1a3188,adtech-landing.null,adv.2ef0d63,advice.25e5aad,agentteams.db3e983,app-upsell.e8e3b96,app-views.e7c3391,async-content.36c5773,bdp.416cb6f,best-time.c479a30,bpro.3cf9b7b,building-admin.a38dad3,chinese-landing-page.8ee294a,claim.a2ad0b8,community-pillar.cedeb1e,complaints.73682e1,contact-form.ab43ef7,contacts.55f0ac7,email-a-friend.847f564,ecui.43a4038,formatters.34b921e,gtm.c9391e2,hdp.65e88ce,hdp-legacy-shim.257c863,homepage.3727afe,homevalues.0222034,inspections.8ed1066,instant-offer.null,keystone.614ed33,lazy-image-loader.3d4bf58,managed-lifecycle.e29d665,map.2037907,mobile-landingpage.2bfadf9,modals.4cdd552,npm.d369a91,santas-house.9b25f76,nc-map.8b727d1,neighborhood.89348a6,pa.a17d2a7,pagewrapper.fc76d74,paparazzi.0a7c207,permits.0ea0805,personalization.b9899d2,posting-path.8fbf7ba,pricing-tool.d22743d,profile.0995f26,property-maps.af51401,property-photos.a79d59e,rent-affordability.a556e8a,renterprofile.bd46dac,rentvsbuy.6dc0b2d,richdata.2dfb952,sales-history.90c0fd2,schools.88c5bb5,search.92ce1b7,searchbar.12c3c54,seller.99cb128,seller-landing.a07313d,seopages.2ab1829,smart-banner.594889c,social-media-tools.dcd85c8,third-party-ads.ec54100,topnav.50c3b55,user-account.4faeb77,validation-regexes.b3d0b3a,vcr.57e2860,video-landing.ba70953,webview-support.c3a282d,widgets.8b54f70,yui.5b7360e,zsg.9c6fb5d,static.091b98a&have=01e05406f11520200d9c52e520ce6d5dc891d678&afterFn=_womboResponse, line 51: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Can't find symbol 'GetGraphicsResetStatus'.
+1551747652083	Marionette	INFO	Stopped listening on port 62508
+[Child 90918, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 90918, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551747654739	Marionette	INFO	Stopped listening on port 60613
+1551747656935	Marionette	INFO	Stopped listening on port 60329
+1551747659120	Marionette	INFO	Stopped listening on port 60132
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1551747968035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/tvvtbj112mlg7w77kwbmyjj00000gp/T/rust_mozprofile.0THXl1JsBN6r"
+1551747968603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551747968604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551747970092	Marionette	INFO	Listening on port 63186
+1551747970098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=2008633307.1551747981, line 96: unreachable code after return statement
+JavaScript warning: https://www.zillow.com/HYx10rg3/init.js, line 3: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Can't find symbol 'GetGraphicsResetStatus'.
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=2008633307.1551747981, line 96: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=2008633307.1551747981, line 96: unreachable code after return statement
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=2008633307.1551747981, line 96: unreachable code after return statement
+console.error: "Task cancelled"
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WQL55SH&cid=2008633307.1551747981, line 96: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: "Task cancelled"
